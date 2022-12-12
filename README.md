@@ -1,4 +1,4 @@
-# Mock Yoga Payment Batch Form
+# Mock Yoga Batch Payment Form
 
 This is a simple application that takes basic user details and gives the option to select the timings of the batch for the current month and pay for it. The user cannot
 pay again for the same month. Validation have been added to the form to get the required fields as well as other validation such as age restriction.
